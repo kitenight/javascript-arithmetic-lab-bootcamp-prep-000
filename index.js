@@ -15,4 +15,10 @@ function divide (a, b) {
 } 
 
 
-n = 0; n < 10; n++
+var number = 10
+
+function add5() {
+  number 5++
+}
+console.log(number)
+add5()
