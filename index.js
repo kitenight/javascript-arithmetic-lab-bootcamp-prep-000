@@ -27,3 +27,7 @@ function dec(n) {
 }
 console.log( n-= 1);
 dec();
+
+function makeInt(n) {
+  
+}
