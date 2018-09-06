@@ -15,7 +15,7 @@ function divide (a, b) {
 } 
 
 
-var number = 10
+var number = 25
 
 function inc(n) {
   n +=5
