@@ -18,7 +18,7 @@ function divide (a, b) {
 var number = 25
 
 function inc(n) {
-  return n +=5
+  return n;
 }
 console.log(n)
 inc()
