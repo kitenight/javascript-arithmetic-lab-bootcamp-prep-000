@@ -21,3 +21,9 @@ function inc(n) {
 }
 console.log(n += 1)
 inc()
+
+function dec(n) {
+  return n -= 1;
+}
+console.log( n-= 1);
+dec();
