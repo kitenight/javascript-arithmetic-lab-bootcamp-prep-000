@@ -18,7 +18,7 @@ function divide (a, b) {
 var number = 10
 
 function add5() {
-  number 5++
+  number +=5
 }
 console.log(number)
 add5()
