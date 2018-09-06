@@ -20,4 +20,4 @@ function inc(n) {
   return n++;
 }
 console.log(n++)
-inc(n++)
+inc()
