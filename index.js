@@ -17,8 +17,8 @@ function divide (a, b) {
 
 var number = 10
 
-function add5() {
-  number +=5
+function inc(n) {
+  n +=5
 }
-console.log(number)
-add5()
+console.log(n)
+inc()
